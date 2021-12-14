@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m Tiffany Zhang
-- 👀 I’m applying to CS graduate programs
+- 👀 I’m applying to M.S. Computer Science
 - 🌱 I’m currently an undergraduate student in University of San Francisco
 - 📫 Email address: tiffanyxkg@gmail.com
 
